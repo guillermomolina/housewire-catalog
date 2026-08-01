@@ -10,6 +10,13 @@ Catalog metadata lives in `catalog.yaml` (`version:`).
 
 ## [Unreleased]
 
+## [0.2.1] — 2026-08-01
+
+### Added
+
+- ``terminal_grid`` on Socket, Luminaire, Intercom, EarthElectrode,
+  PowerSupply, and Relay (incl. ``mini_zbd`` subtype).
+
 ## [0.2.0] — 2026-08-01
 
 ### Added
