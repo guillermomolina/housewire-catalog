@@ -1,0 +1,10 @@
+kind: place_type
+id: Panel
+icon: fa-server
+title: Electrical panel
+description_es: >
+  Cuadro electrico / cuadro general. Metadatos de la carpeta (housewire.yaml root (type/label/…)).
+  Declarar bocas en location.openings como lista de ids locales (N1, B1-1, …),
+  igual que JunctionBox. No genera conector WireViz ni bornes.
+wireviz_skip: true
+terminals: {}
