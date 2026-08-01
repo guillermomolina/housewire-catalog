@@ -5,9 +5,12 @@ External type catalog for [housewire](https://github.com/guillermomolina/housewi
 ## Layout
 
 ```text
-catalog.yaml     # catalog metadata (id, title)
+catalog.yaml     # id, version, title (catalog/v1)
+CHANGELOG.md     # catalog SemVer (independent of housewire)
 types/           # one YAML file per type (id, kind, terminals, …)
 ```
+
+Current catalog version: see `version:` in `catalog.yaml`.
 
 ## Use with housewire
 
