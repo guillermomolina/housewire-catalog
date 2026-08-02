@@ -10,6 +10,16 @@ Catalog metadata lives in `catalog.yaml` (`version:`).
 
 ## [Unreleased]
 
+## [0.8.0] — 2026-08-02
+
+### Added
+
+- Installable Python package ``housewire-catalog`` with
+  ``catalog_root()`` / ``types_dir()`` / ``catalog_id()``.
+- ``pyproject.toml``; type YAML lives under ``src/housewire_catalog/``.
+- Root ``catalog.yaml`` / ``types`` / ``logo.svg`` symlinks for clone-as-path
+  compatibility.
+
 ## [0.7.0] — 2026-08-02
 
 ### Changed
