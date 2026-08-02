@@ -10,6 +10,13 @@ Catalog metadata lives in `catalog.yaml` (`version:`).
 
 ## [Unreleased]
 
+## [0.7.0] — 2026-08-02
+
+### Changed
+
+- Type field ``description_es`` replaced by English ``description``.
+- Spanish comments and mixed Spanish subtype labels removed from type YAML.
+
 ## [0.6.0] — 2026-08-02
 
 ### Changed

@@ -9,7 +9,7 @@ External type catalog for [HouseWire](https://github.com/guillermomolina/housewi
 ## Layout
 
 ```text
-catalog.yaml     # id, version, title (catalog/v1)
+catalog.yaml     # id, version, label (catalog/v1)
 CHANGELOG.md     # catalog SemVer (independent of HouseWire)
 types/           # one YAML file per type (id, kind, terminals, …)
 logo.svg         # HouseWire mark (same as the program UI)
