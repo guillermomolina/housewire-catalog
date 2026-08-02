@@ -4,11 +4,17 @@ All notable changes to **housewire-catalog** are documented in this file.
 
 Format inspired by [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 Versioning follows [Semantic Versioning](https://semver.org/) and is
-**independent** of the housewire program version.
+**independent** of the HouseWire program version.
 
 Catalog metadata lives in `catalog.yaml` (`version:`).
 
 ## [Unreleased]
+
+## [0.3.2] — 2026-08-02
+
+### Changed
+
+- Catalog title uses the **HouseWire** program name.
 
 ## [0.2.1] — 2026-08-01
 
