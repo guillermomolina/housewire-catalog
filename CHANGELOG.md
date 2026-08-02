@@ -10,6 +10,14 @@ Catalog metadata lives in `catalog.yaml` (`version:`).
 
 ## [Unreleased]
 
+## [0.5.0] — 2026-08-02
+
+### Changed
+
+- Terminal **ids** are face-cell tokens (``N1``, ``S2``, …); ``label`` holds
+  casing marks (``L``, ``PE``, ``1``, …). Removed ``terminal_pairs``.
+- TerminalStrip pins are ``N1``…``Nn`` (N-side convention) with ``NS`` grid.
+
 ## [0.4.0] — 2026-08-02
 
 ### Added
