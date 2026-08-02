@@ -10,6 +10,19 @@ Catalog metadata lives in `catalog.yaml` (`version:`).
 
 ## [Unreleased]
 
+## [0.4.0] — 2026-08-02
+
+### Added
+
+- ``Conductor`` type (``kind: conductor_type``) for leaf wires in house/v2
+  ``cables:`` maps.
+
+### Changed
+
+- ``Cable`` is a sheath/bundle (``contains``); description updated for house/v2.
+- ``Conduit`` description points at the unified ``cables:`` map.
+- Catalog description targets house/v2 sites.
+
 ## [0.3.2] — 2026-08-02
 
 ### Changed
