@@ -10,6 +10,13 @@ Catalog metadata lives in `catalog.yaml` (`version:`).
 
 ## [Unreleased]
 
+## [0.6.0] — 2026-08-02
+
+### Changed
+
+- Catalog display field ``title`` renamed to ``label`` (``name`` also
+  accepted when reading). Type ``id`` stays the machine key.
+
 ## [0.5.0] — 2026-08-02
 
 ### Changed
