@@ -10,6 +10,13 @@ Catalog metadata lives in `catalog.yaml` (`version:`).
 
 ## [Unreleased]
 
+## [0.10.0] — 2026-08-03
+
+### Changed
+
+- License switched from MIT to **Server Side Public License v1 (SSPL-1.0)**
+  (see ``LICENSE``).
+
 ## [0.9.0] — 2026-08-03
 
 ### Changed

@@ -42,6 +42,15 @@ Root `catalog.yaml` / `types/` / `logo.svg` are symlinks into
 
 Current catalog version: see `version:` in `catalog.yaml`.
 
+## License
+
+**Server Side Public License v1 (SSPL-1.0)** — see [LICENSE](LICENSE).
+Copyright (c) 2026 Guillermo Adrián Molina.
+
+Same terms as the HouseWire program: self-hosting and modification are fine;
+offering the catalog (or a modified version) to third parties **as a service**
+triggers the SSPL Service Source Code obligations.
+
 ## Use with HouseWire (path override)
 
 ```bash
