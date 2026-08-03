@@ -1,6 +1,6 @@
 kind: conduit_type
 id: Conduit
-icon: fa-grip-lines-vertical
+icon: grip-vertical
 label: Conduit / hose
 description: >
   Tube or hose between locations (physical layer). Joins openings with from/to

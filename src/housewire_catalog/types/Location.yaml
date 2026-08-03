@@ -1,6 +1,6 @@
 kind: place_type
 id: Location
-icon: fa-location-dot
+icon: map-pin
 label: Generic place (inline / catch-all)
 description: >
   Generic location container. Prefer Room, Stair, JunctionBox, DeviceBox,

@@ -1,6 +1,6 @@
 kind: element_type
 id: PETerminal
-icon: fa-earth-europe
+icon: earth
 label: PE terminal bar
 description: PE terminal bar in the panel; distributes earth to the dwelling.
 qet_hint: pe_terminal_bar

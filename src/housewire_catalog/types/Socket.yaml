@@ -1,6 +1,6 @@
 kind: element_type
 id: Socket
-icon: fa-plug
+icon: plug
 label: Socket outlet
 description: Socket outlet (Schuko / 2P+E).
 qet_hint: socket_schuko

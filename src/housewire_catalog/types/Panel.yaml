@@ -1,6 +1,6 @@
 kind: place_type
 id: Panel
-icon: fa-server
+icon: server
 label: Electrical panel
 description: >
   Electrical panel / consumer unit. Place metadata (type/label/… on the YAML

@@ -1,6 +1,6 @@
 kind: place_type
 id: Stair
-icon: fa-stairs
+icon: waves-ladder
 label: Stair / vertical circulation
 description: >
   Stair or other vertical circulation void linking two locations (usually two

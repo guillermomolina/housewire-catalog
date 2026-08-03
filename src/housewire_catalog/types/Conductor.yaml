@@ -1,6 +1,6 @@
 kind: conductor_type
 id: Conductor
-icon: fa-minus
+icon: minus
 label: Conductor / single wire
 description: >
   Single wire between two terminals (from/to). Lives under cables: with type

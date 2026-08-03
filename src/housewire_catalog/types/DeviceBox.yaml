@@ -1,6 +1,6 @@
 kind: place_type
 id: DeviceBox
-icon: fa-box
+icon: box
 label: Device / mechanism box
 description: >
   Mechanism box (socket, switch, …). Usually 1-gang; 2-gang / 3-gang group

@@ -10,6 +10,13 @@ Catalog metadata lives in `catalog.yaml` (`version:`).
 
 ## [Unreleased]
 
+## [0.9.0] — 2026-08-03
+
+### Changed
+
+- Type ``icon:`` values use Lucide ids (``plug``, ``zap``, …) instead of Font
+  Awesome ``fa-*`` tokens. HouseWire maps legacy ``fa-*`` for older sites.
+
 ## [0.8.0] — 2026-08-02
 
 ### Added

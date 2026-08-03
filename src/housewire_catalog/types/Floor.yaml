@@ -1,6 +1,6 @@
 kind: place_type
 id: Floor
-icon: fa-layer-group
+icon: layers
 label: Floor / level
 description: >
   Building floor or level (ground floor, -1/parking, floor 1, …).

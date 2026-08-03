@@ -1,6 +1,6 @@
 kind: place_type
 id: JunctionBox
-icon: fa-cube
+icon: box
 label: Junction box
 description: >
   Junction / derivation box. Place metadata (type/label/… on the YAML node).

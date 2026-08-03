@@ -1,5 +1,5 @@
 schema: catalog/v1
 id: default
-version: 0.8.0
+version: 0.9.0
 label: Default HouseWire type catalog
 description: Element, place, Cable/Conductor/Conduit types for house/v2 sites.

@@ -1,6 +1,6 @@
 kind: element_type
 id: RCD
-icon: fa-shield-halved
+icon: shield-half
 label: Residual current device
 description: >
   Residual current device (RCD / RCCB). Protects against earth leakage.

@@ -1,6 +1,6 @@
 kind: place_type
 id: LightPoint
-icon: fa-lightbulb
+icon: lightbulb
 label: Light point / luminaire outlet
 description: >
   Light point (ceiling/wall hole, lampholder, luminaire outlet).

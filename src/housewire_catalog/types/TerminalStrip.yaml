@@ -1,6 +1,6 @@
 kind: element_type
 id: TerminalStrip
-icon: fa-grip-lines
+icon: grip-horizontal
 label: Terminal strip / connector block
 description: >
   Terminal strip / splice block in a junction box.

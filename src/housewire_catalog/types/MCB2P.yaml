@@ -1,6 +1,6 @@
 kind: element_type
 id: MCB2P
-icon: fa-bolt
+icon: zap
 label: Double-pole miniature circuit breaker
 description: >
   Double-pole miniature circuit breaker (2P). Here a Moeller C50/2 acts as the

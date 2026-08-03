@@ -1,6 +1,6 @@
 kind: element_type
 id: PowerSupply
-icon: fa-battery-full
+icon: battery-full
 label: AC/DC power supply
 description: Power supply / transformer (e.g. intercom). AC primary, DC secondary.
 qet_hint: power_supply_ac_dc
