@@ -2,6 +2,7 @@ kind: conductor_type
 id: Conductor
 icon: minus
 label: Conductor / single wire
+label_es: Conductor / hilo
 description: >
   Single wire between two terminals (from/to). Lives under cables: with type
   Conductor; not in elements.

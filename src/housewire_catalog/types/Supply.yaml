@@ -2,6 +2,7 @@ kind: element_type
 id: Supply
 icon: plug-zap
 label: Supply / grid feed
+label_es: Acometida / suministro
 description: Supply / grid feed (phase + neutral from the meter).
 qet_hint: supply_in
 terminal_grid:

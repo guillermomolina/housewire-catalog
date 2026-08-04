@@ -2,6 +2,7 @@ kind: element_type
 id: PowerSupply
 icon: battery-full
 label: AC/DC power supply
+label_es: Fuente de alimentación AC/DC
 description: Power supply / transformer (e.g. intercom). AC primary, DC secondary.
 qet_hint: power_supply_ac_dc
 terminal_grid:

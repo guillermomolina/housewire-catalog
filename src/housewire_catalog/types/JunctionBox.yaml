@@ -2,6 +2,7 @@ kind: place_type
 id: JunctionBox
 icon: box
 label: Junction box
+label_es: Caja de empalme
 description: >
   Junction / derivation box. Place metadata (type/label/… on the YAML node).
   Declare mouths in location.openings as a list of local ids (N1, B1-1, …)

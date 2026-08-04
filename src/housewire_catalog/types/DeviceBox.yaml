@@ -2,6 +2,7 @@ kind: place_type
 id: DeviceBox
 icon: box
 label: Device / mechanism box
+label_es: Caja de mecanismo
 description: >
   Mechanism box (socket, switch, …). Usually 1-gang; 2-gang / 3-gang group
   several devices in the same box. Declare mouths in openings (local ids N1,

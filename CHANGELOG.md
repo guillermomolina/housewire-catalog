@@ -10,6 +10,13 @@ Catalog metadata lives in `catalog.yaml` (`version:`).
 
 ## [Unreleased]
 
+## [0.11.0] — 2026-08-04
+
+### Added
+
+- Optional ``label_es`` on catalog metadata and all bundled types for
+  Spanish UI labels (English ``label`` remains the default).
+
 ## [0.10.0] — 2026-08-03
 
 ### Changed

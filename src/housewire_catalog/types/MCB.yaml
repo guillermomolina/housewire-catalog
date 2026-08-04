@@ -2,6 +2,7 @@ kind: element_type
 id: MCB
 icon: zap
 label: Miniature circuit breaker
+label_es: Magnetotérmico
 description: >
   Miniature circuit breaker (MCB / PIA). Protects against overload and short
   circuit. Not an RCD (residual current device).

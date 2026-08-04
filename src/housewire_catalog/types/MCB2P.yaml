@@ -2,6 +2,7 @@ kind: element_type
 id: MCB2P
 icon: zap
 label: Double-pole miniature circuit breaker
+label_es: Magnetotérmico bipolar
 description: >
   Double-pole miniature circuit breaker (2P). Here a Moeller C50/2 acts as the
   main breaker (IGA). Not a non-protective isolator (IGP).

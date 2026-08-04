@@ -2,6 +2,7 @@ kind: element_type
 id: Relay
 icon: workflow
 label: Relay / smart switch
+label_es: Relé / interruptor inteligente
 description: >
   Relay or smart switch (e.g. Sonoff ZBMini). Supply LIn+N, switched LOut,
   external switch inputs.

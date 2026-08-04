@@ -2,6 +2,7 @@ kind: place_type
 id: Room
 icon: door-open
 label: Room
+label_es: Habitación
 description: >
   Room or living space. Place metadata (type/label/… on the YAML node).
   Place type: no electrical terminals.

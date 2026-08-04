@@ -2,6 +2,7 @@ kind: element_type
 id: EarthElectrode
 icon: arrow-down
 label: Earth electrode
+label_es: Toma de tierra
 description: Earth electrode / ground rod.
 qet_hint: earth_electrode
 terminal_grid:

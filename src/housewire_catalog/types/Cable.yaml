@@ -2,6 +2,7 @@ kind: cable_type
 id: Cable
 icon: minus
 label: Cable sheath / multicore jacket
+label_es: Cubierta / manguera multipolar
 description: >
   Sheath or bundle that groups conductors (contains). Does not connect
   terminals; lives under cables:, not in elements.

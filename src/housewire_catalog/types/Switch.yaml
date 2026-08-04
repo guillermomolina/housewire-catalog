@@ -2,6 +2,7 @@ kind: element_type
 id: Switch
 icon: toggle-right
 label: Switch
+label_es: Interruptor
 description: >
   Mechanism switch (light / load). Subtypes: unipolar (N1↔S1), crossover /
   3-way (N1 common + N2/N3), intermediate (4-way).

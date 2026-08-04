@@ -2,6 +2,7 @@ kind: place_type
 id: Stair
 icon: waves-ladder
 label: Stair / vertical circulation
+label_es: Escalera
 description: >
   Stair or other vertical circulation void linking two locations (usually two
   Floor nodes). Not a Room: declare connects: [A, B] with refs to the floors

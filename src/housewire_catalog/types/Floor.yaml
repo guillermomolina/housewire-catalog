@@ -2,6 +2,7 @@ kind: place_type
 id: Floor
 icon: layers
 label: Floor / level
+label_es: Planta / nivel
 description: >
   Building floor or level (ground floor, -1/parking, floor 1, …).
   Use label for the human name (Ground floor, Parking).

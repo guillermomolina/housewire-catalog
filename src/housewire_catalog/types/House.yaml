@@ -2,6 +2,7 @@ kind: place_type
 id: House
 icon: house
 label: House / dwelling
+label_es: Vivienda / casa
 description: >
   House or dwelling. A place type like Room or Floor; does not imply being the
   tree root. Hierarchy comes from the folder path (another location may sit

@@ -2,6 +2,7 @@ kind: element_type
 id: Socket
 icon: plug
 label: Socket outlet
+label_es: Enchufe
 description: Socket outlet (Schuko / 2P+E).
 qet_hint: socket_schuko
 terminal_grid:
