@@ -7,4 +7,9 @@ description: >
   House or dwelling. A place type like Room or Floor; does not imply being the
   tree root. Hierarchy comes from the folder path (another location may sit
   above). Site document metadata. Place type: no electrical terminals.
+description_es: >
+  Vivienda o casa. Un tipo place como Room o Floor; no implica ser la raíz
+  del árbol. La jerarquía viene de la ruta de carpetas (puede haber otro
+  lugar encima). Metadatos del documento de sitio. Tipo place: sin
+  terminales eléctricos.
 terminals: {}

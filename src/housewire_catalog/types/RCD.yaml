@@ -6,6 +6,9 @@ label_es: Diferencial
 description: >
   Residual current device (RCD / RCCB). Protects against earth leakage.
   Not a miniature circuit breaker.
+description_es: >
+  Diferencial (RCD / RCCB). Protege frente a fugas a tierra. No es un
+  magnetotérmico.
 qet_hint: rcd_2P
 # Face-cell ids: N1/S1 phase, N2/S2 neutral.
 terminal_grid:

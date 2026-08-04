@@ -7,6 +7,10 @@ description: >
   Luminaire or lampholder. Typical terminals N1/N2/N3 when switched phase,
   permanent phase, and neutral arrive (or only L+N if the instance shrinks
   terminals).
+description_es: >
+  Luminaria o portalámparas. Terminales típicos N1/N2/N3 cuando llegan
+  fase conmutada, fase permanente y neutro (o solo L+N si la instancia
+  reduce terminales).
 qet_hint: luminaire
 terminal_grid:
   N: 3

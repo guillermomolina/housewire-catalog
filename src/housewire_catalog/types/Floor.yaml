@@ -7,4 +7,8 @@ description: >
   Building floor or level (ground floor, -1/parking, floor 1, …).
   Use label for the human name (Ground floor, Parking).
   Place type: no electrical terminals.
+description_es: >
+  Planta o nivel del edificio (planta baja, -1/parking, planta 1, …). Usa
+  label para el nombre humano (Planta baja, Parking). Tipo place: sin
+  terminales eléctricos.
 terminals: {}

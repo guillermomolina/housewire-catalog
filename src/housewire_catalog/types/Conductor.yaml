@@ -6,6 +6,9 @@ label_es: Conductor / hilo
 description: >
   Single wire between two terminals (from/to). Lives under cables: with type
   Conductor; not in elements.
+description_es: >
+  Hilo único entre dos terminales (from/to). Vive bajo cables: con tipo
+  Conductor; no en elements.
 defaults:
   section: "1.5 mm2"
   color: BN

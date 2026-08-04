@@ -7,4 +7,9 @@ description: >
   Junction / derivation box. Place metadata (type/label/… on the YAML node).
   Declare mouths in location.openings as a list of local ids (N1, B1-1, …)
   and optionally location.opening_grid. Place type: no electrical terminals.
+description_es: >
+  Caja de empalme / derivación. Metadatos del place (type/label/… en el
+  nodo YAML). Declara bocas en location.openings como lista de ids locales
+  (N1, B1-1, …) y opcionalmente location.opening_grid. Tipo place: sin
+  terminales eléctricos.
 terminals: {}

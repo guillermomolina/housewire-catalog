@@ -6,6 +6,9 @@ label_es: Relé / interruptor inteligente
 description: >
   Relay or smart switch (e.g. Sonoff ZBMini). Supply LIn+N, switched LOut,
   external switch inputs.
+description_es: >
+  Relé o interruptor inteligente (p. ej. Sonoff ZBMini). Alimentación
+  LIn+N, LOut conmutada, entradas de interruptor externo.
 qet_hint: relay
 terminal_grid:
   N: 4

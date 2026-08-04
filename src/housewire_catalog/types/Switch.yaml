@@ -6,6 +6,9 @@ label_es: Interruptor
 description: >
   Mechanism switch (light / load). Subtypes: unipolar (N1↔S1), crossover /
   3-way (N1 common + N2/N3), intermediate (4-way).
+description_es: >
+  Interruptor de mecanismo (luz / carga). Subtipos: unipolar (N1↔S1),
+  conmutador / 3 vías (N1 común + N2/N3), cruzamiento (4 vías).
 qet_hint: switch
 terminal_grid:
   NS: 1

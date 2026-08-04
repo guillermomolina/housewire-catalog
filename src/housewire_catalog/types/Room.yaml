@@ -6,4 +6,7 @@ label_es: Habitación
 description: >
   Room or living space. Place metadata (type/label/… on the YAML node).
   Place type: no electrical terminals.
+description_es: >
+  Habitación o espacio habitable. Metadatos del place (type/label/… en el
+  nodo YAML). Tipo place: sin terminales eléctricos.
 terminals: {}

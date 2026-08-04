@@ -6,6 +6,9 @@ label_es: Cubierta / manguera multipolar
 description: >
   Sheath or bundle that groups conductors (contains). Does not connect
   terminals; lives under cables:, not in elements.
+description_es: >
+  Cubierta o mazo que agrupa conductores (contains). No conecta
+  terminales; vive bajo cables:, no en elements.
 defaults:
   color: BK
 subtypes:

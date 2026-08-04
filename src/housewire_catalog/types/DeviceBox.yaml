@@ -8,6 +8,11 @@ description: >
   several devices in the same box. Declare mouths in openings (local ids N1,
   B1-1, …). Socket/Switch instances go under elements.
   Place type: no electrical terminals.
+description_es: >
+  Caja de mecanismo (enchufe, interruptor, …). Suele ser 1 módulo; 2/3
+  módulos agrupan varios dispositivos en la misma caja. Declara bocas en
+  openings (ids locales N1, B1-1, …). Las instancias Socket/Switch van
+  bajo elements. Tipo place: sin terminales eléctricos.
 terminals: {}
 defaults:
   subtype: 1-gang

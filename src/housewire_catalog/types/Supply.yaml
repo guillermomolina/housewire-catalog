@@ -4,6 +4,8 @@ icon: plug-zap
 label: Supply / grid feed
 label_es: Acometida / suministro
 description: Supply / grid feed (phase + neutral from the meter).
+description_es: >
+  Alimentación / acometida (fase + neutro desde el contador).
 qet_hint: supply_in
 terminal_grid:
   S: 2

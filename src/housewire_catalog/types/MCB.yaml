@@ -6,6 +6,9 @@ label_es: Magnetotérmico
 description: >
   Miniature circuit breaker (MCB / PIA). Protects against overload and short
   circuit. Not an RCD (residual current device).
+description_es: >
+  Magnetotérmico (MCB / PIA). Protege frente a sobrecarga y cortocircuito.
+  No es un diferencial (RCD).
 qet_hint: mcb_1P_N
 # Face-cell ids: N1/S1 phase, N2/S2 neutral. label = casing mark.
 terminal_grid:
