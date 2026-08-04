@@ -1,4 +1,4 @@
-kind: place_type
+kind: PlaceType
 type: House
 icon: house
 label: House / dwelling

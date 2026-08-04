@@ -10,6 +10,13 @@ Catalog metadata lives in `catalog.yaml` (`version:`).
 
 ## [Unreleased]
 
+## [0.15.0] — 2026-08-04
+
+### Changed
+
+- Enum values PascalCase: ``kind``, ``direction``, ``role``, and subtype
+  ``install``/``mount`` defaults (``Flush``, ``Surface``, ``Wall``, …).
+
 ## [0.14.1] — 2026-08-04
 
 ### Changed

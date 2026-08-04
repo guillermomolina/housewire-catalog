@@ -1,4 +1,4 @@
-kind: element_type
+kind: ElementType
 type: EarthElectrode
 icon: arrow-down
 label: Earth electrode
@@ -12,5 +12,5 @@ terminal_grid:
 terminals:
   S1:
     label: PE
-    direction: out
-    role: pe
+    direction: Out
+    role: PE

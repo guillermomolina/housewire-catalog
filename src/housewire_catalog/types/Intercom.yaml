@@ -1,4 +1,4 @@
-kind: element_type
+kind: ElementType
 type: Intercom
 icon: phone
 label: Door entry / intercom
@@ -12,9 +12,9 @@ terminal_grid:
 terminals:
   N1:
     label: "+"
-    direction: in
-    role: dc_positive
+    direction: In
+    role: DCPositive
   N2:
     label: "-"
-    direction: in
-    role: dc_negative
+    direction: In
+    role: DCNegative

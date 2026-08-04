@@ -1,4 +1,4 @@
-kind: place_type
+kind: PlaceType
 type: Panel
 icon: server
 label: Electrical panel

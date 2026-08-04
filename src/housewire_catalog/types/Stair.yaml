@@ -1,4 +1,4 @@
-kind: place_type
+kind: PlaceType
 type: Stair
 icon: waves-ladder
 label: Stair / vertical circulation

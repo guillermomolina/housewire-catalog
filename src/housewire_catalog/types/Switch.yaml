@@ -1,4 +1,4 @@
-kind: element_type
+kind: ElementType
 type: Switch
 icon: toggle-right
 label: Switch
@@ -17,12 +17,12 @@ terminal_grid:
 terminals:
   N1:
     label: '1'
-    direction: in
-    role: phase
+    direction: In
+    role: Phase
   S1:
     label: '2'
-    direction: out
-    role: phase
+    direction: Out
+    role: Phase
 defaults:
   subtype: Unipolar
 subtypes:
@@ -37,16 +37,16 @@ subtypes:
     terminals:
       N1:
         label: C
-        direction: inout
-        role: phase
+        direction: InOut
+        role: Phase
       N2:
         label: '1'
-        direction: inout
-        role: phase
+        direction: InOut
+        role: Phase
       N3:
         label: '2'
-        direction: inout
-        role: phase
+        direction: InOut
+        role: Phase
   Intermediate:
     label: Intermediate / 4-way
     label_es: Cruzamiento (4 vías)
@@ -55,17 +55,17 @@ subtypes:
     terminals:
       N1:
         label: '1'
-        direction: inout
-        role: phase
+        direction: InOut
+        role: Phase
       S1:
         label: '2'
-        direction: inout
-        role: phase
+        direction: InOut
+        role: Phase
       N2:
         label: '3'
-        direction: inout
-        role: phase
+        direction: InOut
+        role: Phase
       S2:
         label: '4'
-        direction: inout
-        role: phase
+        direction: InOut
+        role: Phase

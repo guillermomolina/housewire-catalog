@@ -1,4 +1,4 @@
-kind: place_type
+kind: PlaceType
 type: LightPoint
 icon: lightbulb
 label: Light point / luminaire outlet
@@ -21,12 +21,12 @@ subtypes:
     label: Ceiling hole
     label_es: Hueco de techo
     defaults:
-      mount: ceiling
+      mount: Ceiling
   WallHole:
     label: Wall hole
     label_es: Hueco de pared
     defaults:
-      mount: wall
+      mount: Wall
   Emergency:
     label: Emergency luminaire outlet
     label_es: Salida de luminaria de emergencia

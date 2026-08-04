@@ -1,4 +1,4 @@
-kind: place_type
+kind: PlaceType
 type: DeviceBox
 icon: box
 label: Device / mechanism box

@@ -1,4 +1,4 @@
-kind: cable_type
+kind: CableType
 type: Cable
 icon: minus
 label: Cable sheath / multicore jacket

@@ -1,4 +1,4 @@
-kind: element_type
+kind: ElementType
 type: Supply
 icon: plug-zap
 label: Supply / grid feed
@@ -12,9 +12,9 @@ terminal_grid:
 terminals:
   S1:
     label: L
-    direction: out
-    role: phase
+    direction: Out
+    role: Phase
   S2:
     label: N
-    direction: out
-    role: neutral
+    direction: Out
+    role: Neutral

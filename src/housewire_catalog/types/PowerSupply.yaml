@@ -1,4 +1,4 @@
-kind: element_type
+kind: ElementType
 type: PowerSupply
 icon: battery-full
 label: AC/DC power supply
@@ -13,17 +13,17 @@ terminal_grid:
 terminals:
   N1:
     label: "230V AC L"
-    direction: in
-    role: phase
+    direction: In
+    role: Phase
   S1:
     label: "12V DC +"
-    direction: out
-    role: dc_positive
+    direction: Out
+    role: DCPositive
   N2:
     label: "230V AC N"
-    direction: in
-    role: neutral
+    direction: In
+    role: Neutral
   S2:
     label: "12V DC -"
-    direction: out
-    role: dc_negative
+    direction: Out
+    role: DCNegative

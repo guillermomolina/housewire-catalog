@@ -1,4 +1,4 @@
-kind: element_type
+kind: ElementType
 type: Socket
 icon: plug
 label: Socket outlet
@@ -13,16 +13,16 @@ terminal_grid:
 terminals:
   N1:
     label: L
-    direction: in
-    role: phase
+    direction: In
+    role: Phase
   N2:
     label: PE
-    direction: in
-    role: pe
+    direction: In
+    role: PE
   N3:
     label: N
-    direction: in
-    role: neutral
+    direction: In
+    role: Neutral
 defaults:
   subtype: Schuko
 subtypes:

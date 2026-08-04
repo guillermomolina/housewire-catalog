@@ -1,4 +1,4 @@
-kind: conductor_type
+kind: ConductorType
 type: Conductor
 icon: minus
 label: Conductor / single wire

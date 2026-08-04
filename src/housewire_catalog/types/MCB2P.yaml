@@ -1,4 +1,4 @@
-kind: element_type
+kind: ElementType
 type: MCB2P
 icon: zap
 label: Double-pole miniature circuit breaker
@@ -16,17 +16,17 @@ terminal_grid:
 terminals:
   N1:
     label: "1"
-    direction: in
-    role: neutral
+    direction: In
+    role: Neutral
   S1:
     label: "2"
-    direction: out
-    role: neutral
+    direction: Out
+    role: Neutral
   N2:
     label: "3"
-    direction: in
-    role: phase
+    direction: In
+    role: Phase
   S2:
     label: "4"
-    direction: out
-    role: phase
+    direction: Out
+    role: Phase

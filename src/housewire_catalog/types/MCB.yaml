@@ -1,4 +1,4 @@
-kind: element_type
+kind: ElementType
 type: MCB
 icon: zap
 label: Miniature circuit breaker
@@ -16,17 +16,17 @@ terminal_grid:
 terminals:
   N1:
     label: "1"
-    direction: in
-    role: phase
+    direction: In
+    role: Phase
   S1:
     label: "2"
-    direction: out
-    role: phase
+    direction: Out
+    role: Phase
   N2:
     label: N
-    direction: in
-    role: neutral
+    direction: In
+    role: Neutral
   S2:
     label: N
-    direction: out
-    role: neutral
+    direction: Out
+    role: Neutral

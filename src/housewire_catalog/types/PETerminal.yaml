@@ -1,4 +1,4 @@
-kind: element_type
+kind: ElementType
 type: PETerminal
 icon: earth
 label: PE terminal bar
@@ -12,5 +12,5 @@ terminal_grid:
 terminals:
   N1:
     label: PE
-    direction: inout
-    role: pe
+    direction: InOut
+    role: PE

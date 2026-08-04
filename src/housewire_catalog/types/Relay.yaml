@@ -1,4 +1,4 @@
-kind: element_type
+kind: ElementType
 type: Relay
 icon: workflow
 label: Relay / smart switch
@@ -18,24 +18,24 @@ terminal_grid:
 terminals:
   N1:
     label: N
-    direction: in
-    role: neutral
+    direction: In
+    role: Neutral
   N2:
     label: L in
-    direction: in
-    role: phase
+    direction: In
+    role: Phase
   N3:
     label: L out
-    direction: out
-    role: phase
+    direction: Out
+    role: Phase
   N4:
     label: S1
-    direction: in
-    role: signal
+    direction: In
+    role: Signal
   S1:
     label: S2
-    direction: in
-    role: signal
+    direction: In
+    role: Signal
 defaults:
   subtype: Smart
 subtypes:
@@ -57,21 +57,21 @@ subtypes:
     terminals:
       N1:
         label: L
-        direction: in
-        role: phase
+        direction: In
+        role: Phase
       N2:
         label: N
-        direction: in
-        role: neutral
+        direction: In
+        role: Neutral
       S1:
         label: "NO"
-        direction: out
-        role: signal
+        direction: Out
+        role: Signal
       S2:
         label: COM
-        direction: inout
-        role: signal
+        direction: InOut
+        role: Signal
       S3:
         label: NC
-        direction: out
-        role: signal
+        direction: Out
+        role: Signal

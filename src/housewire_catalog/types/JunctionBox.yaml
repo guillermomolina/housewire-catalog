@@ -1,4 +1,4 @@
-kind: place_type
+kind: PlaceType
 type: JunctionBox
 icon: box
 label: Junction box
@@ -21,9 +21,9 @@ subtypes:
     label: IP40 (indoor)
     label_es: IP40 (interior)
     defaults:
-      install: flush
+      install: Flush
   IP65:
     label: IP65 (exposed / outdoor)
     label_es: IP65 (visto / exterior)
     defaults:
-      install: surface
+      install: Surface
