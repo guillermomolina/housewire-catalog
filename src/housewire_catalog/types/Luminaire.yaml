@@ -1,5 +1,5 @@
 kind: element_type
-id: Luminaire
+type: Luminaire
 icon: lightbulb
 label: Luminaire / lamp
 label_es: Luminaria / lámpara

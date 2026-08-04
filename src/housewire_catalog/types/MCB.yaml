@@ -1,5 +1,5 @@
 kind: element_type
-id: MCB
+type: MCB
 icon: zap
 label: Miniature circuit breaker
 label_es: Magnetotérmico

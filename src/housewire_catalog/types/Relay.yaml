@@ -1,14 +1,16 @@
 kind: element_type
-id: Relay
+type: Relay
 icon: workflow
 label: Relay / smart switch
 label_es: Relé / interruptor inteligente
-description: >
-  Relay or smart switch (e.g. Sonoff ZBMini). Supply LIn+N, switched LOut,
-  external switch inputs.
-description_es: >
-  Relé o interruptor inteligente (p. ej. Sonoff ZBMini). Alimentación
-  LIn+N, LOut conmutada, entradas de interruptor externo.
+description: 'Relay or smart switch (e.g. Sonoff ZBMini). Supply LIn+N, switched LOut, external
+  switch inputs.
+
+  '
+description_es: 'Relé o interruptor inteligente (p. ej. Sonoff ZBMini). Alimentación LIn+N,
+  LOut conmutada, entradas de interruptor externo.
+
+  '
 qet_hint: relay
 terminal_grid:
   N: 4
@@ -35,18 +37,18 @@ terminals:
     direction: in
     role: signal
 defaults:
-  subtype: smart
+  subtype: Smart
 subtypes:
-  smart:
+  Smart:
     label: Smart relay (Zigbee / Wi-Fi)
     label_es: Relé inteligente (Zigbee / Wi-Fi)
-  zbmini_r2:
+  ZbminiR2:
     label: Sonoff ZBMiniR2
     label_es: Sonoff ZBMiniR2
-  zbmini_extreme:
+  ZbminiExtreme:
     label: Sonoff ZBMini Extreme (legacy alias)
     label_es: Sonoff ZBMini Extreme (alias legado)
-  mini_zbd:
+  MiniZbd:
     label: Sonoff MINI Zigbee Dry (MINI-ZBD)
     label_es: Sonoff MINI Zigbee Dry (MINI-ZBD)
     terminal_grid:
@@ -62,7 +64,7 @@ subtypes:
         direction: in
         role: neutral
       S1:
-        label: NO
+        label: "NO"
         direction: out
         role: signal
       S2:

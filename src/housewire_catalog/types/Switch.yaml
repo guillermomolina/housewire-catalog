@@ -1,36 +1,37 @@
 kind: element_type
-id: Switch
+type: Switch
 icon: toggle-right
 label: Switch
 label_es: Interruptor
-description: >
-  Mechanism switch (light / load). Subtypes: unipolar (N1↔S1), crossover /
-  3-way (N1 common + N2/N3), intermediate (4-way).
-description_es: >
-  Interruptor de mecanismo (luz / carga). Subtipos: unipolar (N1↔S1),
-  conmutador / 3 vías (N1 común + N2/N3), cruzamiento (4 vías).
+description: 'Mechanism switch (light / load). Subtypes: unipolar (N1↔S1), crossover / 3-way
+  (N1 common + N2/N3), intermediate (4-way).
+
+  '
+description_es: 'Interruptor de mecanismo (luz / carga). Subtipos: unipolar (N1↔S1), conmutador
+  / 3 vías (N1 común + N2/N3), cruzamiento (4 vías).
+
+  '
 qet_hint: switch
 terminal_grid:
   NS: 1
 terminals:
   N1:
-    label: "1"
+    label: '1'
     direction: in
     role: phase
   S1:
-    label: "2"
+    label: '2'
     direction: out
     role: phase
 defaults:
-  subtype: unipolar
+  subtype: Unipolar
 subtypes:
-  unipolar:
+  Unipolar:
     label: Single-pole (1-way)
     label_es: Unipolar (1 vía)
-  crossover:
+  Crossover:
     label: 3-way
     label_es: Conmutador (3 vías)
-    # N1 = common; N2 and N3 = travellers.
     terminal_grid:
       NS: 3
     terminals:
@@ -39,32 +40,32 @@ subtypes:
         direction: inout
         role: phase
       N2:
-        label: "1"
+        label: '1'
         direction: inout
         role: phase
       N3:
-        label: "2"
+        label: '2'
         direction: inout
         role: phase
-  intermediate:
+  Intermediate:
     label: Intermediate / 4-way
     label_es: Cruzamiento (4 vías)
     terminal_grid:
       NS: 2
     terminals:
       N1:
-        label: "1"
+        label: '1'
         direction: inout
         role: phase
       S1:
-        label: "2"
+        label: '2'
         direction: inout
         role: phase
       N2:
-        label: "3"
+        label: '3'
         direction: inout
         role: phase
       S2:
-        label: "4"
+        label: '4'
         direction: inout
         role: phase

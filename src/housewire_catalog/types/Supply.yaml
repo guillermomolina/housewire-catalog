@@ -1,5 +1,5 @@
 kind: element_type
-id: Supply
+type: Supply
 icon: plug-zap
 label: Supply / grid feed
 label_es: Acometida / suministro

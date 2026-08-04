@@ -1,5 +1,5 @@
 kind: place_type
-id: Floor
+type: Floor
 icon: layers
 label: Floor / level
 label_es: Planta / nivel

@@ -1,5 +1,5 @@
 kind: element_type
-id: RCD
+type: RCD
 icon: shield-half
 label: Residual current device
 label_es: Diferencial

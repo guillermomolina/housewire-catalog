@@ -1,5 +1,5 @@
 kind: place_type
-id: Room
+type: Room
 icon: door-open
 label: Room
 label_es: Habitación

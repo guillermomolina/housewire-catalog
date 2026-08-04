@@ -1,35 +1,37 @@
 kind: conductor_type
-id: Conductor
+type: Conductor
 icon: minus
 label: Conductor / single wire
 label_es: Conductor / hilo
-description: >
-  Single wire between two terminals (from/to). Lives under cables: with type
-  Conductor; not in elements.
-description_es: >
-  Hilo único entre dos terminales (from/to). Vive bajo cables: con tipo
-  Conductor; no en elements.
+description: 'Single wire between two terminals (from/to). Lives under cables: with type Conductor;
+  not in elements.
+
+  '
+description_es: 'Hilo único entre dos terminales (from/to). Vive bajo cables: con tipo Conductor;
+  no en elements.
+
+  '
 defaults:
-  subtype: power
-  section: "1.5 mm2"
+  subtype: Power
+  section: 1.5 mm2
   color: BN
 subtypes:
-  power:
+  Power:
     label: Power (AC)
     label_es: Potencia (CA)
     defaults:
       color: BN
-  earth:
+  Earth:
     label: Protective earth
     label_es: Tierra de protección
     defaults:
       color: GNYE
-  dc:
+  DC:
     label: DC
     label_es: CC
     defaults:
       color: RD
-  signal:
+  Signal:
     label: Signal / data
     label_es: Señal / datos
     defaults:

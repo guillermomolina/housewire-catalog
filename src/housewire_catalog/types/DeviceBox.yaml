@@ -1,28 +1,28 @@
 kind: place_type
-id: DeviceBox
+type: DeviceBox
 icon: box
 label: Device / mechanism box
 label_es: Caja de mecanismo
-description: >
-  Mechanism box (socket, switch, …). Usually 1-gang; 2-gang / 3-gang group
-  several devices in the same box. Declare mouths in openings (local ids N1,
-  B1-1, …). Socket/Switch instances go under elements.
-  Place type: no electrical terminals.
-description_es: >
-  Caja de mecanismo (enchufe, interruptor, …). Suele ser 1 módulo; 2/3
-  módulos agrupan varios dispositivos en la misma caja. Declara bocas en
-  openings (ids locales N1, B1-1, …). Las instancias Socket/Switch van
-  bajo elements. Tipo place: sin terminales eléctricos.
+description: 'Mechanism box (socket, switch, …). Usually 1-gang; 2-gang / 3-gang group several
+  devices in the same box. Declare mouths in openings (local ids N1, B1-1, …). Socket/Switch
+  instances go under elements. Place type: no electrical terminals.
+
+  '
+description_es: 'Caja de mecanismo (enchufe, interruptor, …). Suele ser 1 módulo; 2/3 módulos
+  agrupan varios dispositivos en la misma caja. Declara bocas en openings (ids locales N1,
+  B1-1, …). Las instancias Socket/Switch van bajo elements. Tipo place: sin terminales eléctricos.
+
+  '
 terminals: {}
 defaults:
-  subtype: 1-gang
+  subtype: OneGang
 subtypes:
-  1-gang:
+  OneGang:
     label: 1-gang
     label_es: 1 módulo
-  2-gang:
+  TwoGang:
     label: 2-gang
     label_es: 2 módulos
-  3-gang:
+  ThreeGang:
     label: 3-gang
     label_es: 3 módulos

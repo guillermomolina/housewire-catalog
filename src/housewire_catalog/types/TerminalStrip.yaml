@@ -1,5 +1,5 @@
 kind: element_type
-id: TerminalStrip
+type: TerminalStrip
 icon: grip-horizontal
 label: Terminal strip / connector block
 label_es: Regleta / bornes

@@ -1,5 +1,5 @@
 kind: place_type
-id: Panel
+type: Panel
 icon: server
 label: Electrical panel
 label_es: Cuadro eléctrico

@@ -1,5 +1,5 @@
 kind: place_type
-id: House
+type: House
 icon: house
 label: House / dwelling
 label_es: Vivienda / casa

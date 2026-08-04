@@ -1,5 +1,5 @@
 kind: place_type
-id: Location
+type: Location
 icon: map-pin
 label: Generic place (inline / catch-all)
 label_es: Lugar genérico

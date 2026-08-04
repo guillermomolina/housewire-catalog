@@ -1,5 +1,5 @@
 kind: element_type
-id: PowerSupply
+type: PowerSupply
 icon: battery-full
 label: AC/DC power supply
 label_es: Fuente de alimentación AC/DC

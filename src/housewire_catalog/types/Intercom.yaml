@@ -1,5 +1,5 @@
 kind: element_type
-id: Intercom
+type: Intercom
 icon: phone
 label: Door entry / intercom
 label_es: Portero / videoportero

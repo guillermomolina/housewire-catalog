@@ -1,5 +1,5 @@
 kind: element_type
-id: PETerminal
+type: PETerminal
 icon: earth
 label: PE terminal bar
 label_es: Barra de PE

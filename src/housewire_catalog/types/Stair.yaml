@@ -1,5 +1,5 @@
 kind: place_type
-id: Stair
+type: Stair
 icon: waves-ladder
 label: Stair / vertical circulation
 label_es: Escalera

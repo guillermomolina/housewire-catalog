@@ -1,28 +1,28 @@
 kind: place_type
-id: JunctionBox
+type: JunctionBox
 icon: box
 label: Junction box
 label_es: Caja de derivación
-description: >
-  Junction / derivation box. Place metadata (type/label/… on the YAML node).
-  Declare mouths in location.openings as a list of local ids (N1, B1-1, …)
-  and optionally location.opening_grid. Place type: no electrical terminals.
-  Subtype is IP rating (size belongs in notes/label).
-description_es: >
-  Caja de derivación. Metadatos del place (type/label/… en el nodo YAML).
-  Declara bocas en location.openings como lista de ids locales (N1, B1-1, …)
-  y opcionalmente location.opening_grid. Tipo place: sin terminales eléctricos.
-  El subtype es el grado IP (el tamaño va en notes/label).
+description: 'Junction / derivation box. Place metadata (type/label/… on the YAML node). Declare
+  mouths in location.openings as a list of local ids (N1, B1-1, …) and optionally location.opening_grid.
+  Place type: no electrical terminals. Subtype is IP rating (size belongs in notes/label).
+
+  '
+description_es: 'Caja de derivación. Metadatos del place (type/label/… en el nodo YAML). Declara
+  bocas en location.openings como lista de ids locales (N1, B1-1, …) y opcionalmente location.opening_grid.
+  Tipo place: sin terminales eléctricos. El subtype es el grado IP (el tamaño va en notes/label).
+
+  '
 terminals: {}
 defaults:
-  subtype: ip40
+  subtype: IP40
 subtypes:
-  ip40:
+  IP40:
     label: IP40 (indoor)
     label_es: IP40 (interior)
     defaults:
       install: flush
-  ip65:
+  IP65:
     label: IP65 (exposed / outdoor)
     label_es: IP65 (visto / exterior)
     defaults:

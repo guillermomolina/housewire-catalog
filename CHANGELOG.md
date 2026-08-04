@@ -10,6 +10,14 @@ Catalog metadata lives in `catalog.yaml` (`version:`).
 
 ## [Unreleased]
 
+## [0.14.0] — 2026-08-04
+
+### Changed
+
+- Catalog type files use ``type:`` instead of ``id:``.
+- Subtype keys are PascalCase (``IP40`` / ``IP65``, ``OneGang``, ``Tube``,
+  ``Power``, ``Earth``, ``DC``, ``ZbminiR2``, …).
+
 ## [0.13.0] — 2026-08-04
 
 ### Added
