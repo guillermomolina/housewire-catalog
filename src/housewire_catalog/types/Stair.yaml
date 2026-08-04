@@ -4,13 +4,11 @@ icon: waves-ladder
 label: Stair / vertical circulation
 label_es: Escalera
 description: >
-  Stair or other vertical circulation void linking two locations (usually two
-  Floor nodes). Not a Room: declare connects: [A, B] with refs to the floors
-  or spaces it joins. May contain boxes, light points, and switches of the
+  Stair or other vertical circulation void. Usually sits beside the floors it
+  links in the place tree. May contain boxes, light points, and switches of the
   stair enclosure itself.
 description_es: >
-  Escalera u otro vacío de circulación vertical que une dos lugares
-  (normalmente dos Floor). No es Room: declara connects: [A, B] con refs a
-  las plantas o espacios que une. Puede contener cajas, puntos de luz e
+  Escalera u otro vacío de circulación vertical. Suele situarse junto a las
+  plantas que une en el árbol de places. Puede contener cajas, puntos de luz e
   interruptores del propio hueco de escalera.
 terminals: {}
