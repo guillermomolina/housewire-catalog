@@ -11,19 +11,27 @@ description_es: >
   Tubo o conducto entre lugares (capa física). Une openings con from/to
   (LocationRef.OpeningId); contains lista cables/conductores que van
   dentro. Vive bajo cables: con tipo Conduit, no en elements.
-defaults: {}
+defaults:
+  subtype: tube
 subtypes:
   tube:
     label: Tube (generic)
+    label_es: Tubo (genérico)
   hose:
     label: Multi-cable hose / sheath
+    label_es: Manguera / cubierta multipolar
   free:
     label: Free wires / no tube
+    label_es: Hilos libres / sin tubo
   M16:
     label: Tube M16
+    label_es: Tubo M16
   M20:
     label: Tube M20
+    label_es: Tubo M20
   M25:
     label: Tube M25
+    label_es: Tubo M25
   M32:
     label: Tube M32
+    label_es: Tubo M32

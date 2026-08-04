@@ -10,6 +10,24 @@ Catalog metadata lives in `catalog.yaml` (`version:`).
 
 ## [Unreleased]
 
+## [0.13.0] — 2026-08-04
+
+### Added
+
+- Closed ``subtypes`` maps: ``JunctionBox`` ``ip40`` / ``ip65`` (with
+  ``install`` defaults flush / surface), ``DeviceBox`` gang sizes,
+  ``LightPoint`` hole / emergency, ``Socket`` ``Schuko``.
+- ``label_es`` on ``Conduit``, ``Cable``, ``Conductor``, ``Switch``, and
+  ``Relay`` subtypes; default subtypes for Conduit (``tube``) and
+  Cable/Conductor (``power``).
+
+## [0.12.1] — 2026-08-04
+
+### Changed
+
+- ``JunctionBox`` Spanish label/description: «Caja de derivación» (was
+  «Caja de empalme»).
+
 ## [0.12.0] — 2026-08-04
 
 ### Added

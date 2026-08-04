@@ -39,12 +39,16 @@ defaults:
 subtypes:
   smart:
     label: Smart relay (Zigbee / Wi-Fi)
+    label_es: Relé inteligente (Zigbee / Wi-Fi)
   zbmini_r2:
     label: Sonoff ZBMiniR2
+    label_es: Sonoff ZBMiniR2
   zbmini_extreme:
     label: Sonoff ZBMini Extreme (legacy alias)
+    label_es: Sonoff ZBMini Extreme (alias legado)
   mini_zbd:
     label: Sonoff MINI Zigbee Dry (MINI-ZBD)
+    label_es: Sonoff MINI Zigbee Dry (MINI-ZBD)
     terminal_grid:
       N: 2
       S: 3

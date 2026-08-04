@@ -16,3 +16,17 @@ description_es: >
 terminals: {}
 defaults:
   subtype: ceiling-hole
+subtypes:
+  ceiling-hole:
+    label: Ceiling hole
+    label_es: Hueco de techo
+    defaults:
+      mount: ceiling
+  wall-hole:
+    label: Wall hole
+    label_es: Hueco de pared
+    defaults:
+      mount: wall
+  emergency:
+    label: Emergency luminaire outlet
+    label_es: Salida de luminaria de emergencia

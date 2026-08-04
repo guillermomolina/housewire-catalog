@@ -16,3 +16,13 @@ description_es: >
 terminals: {}
 defaults:
   subtype: 1-gang
+subtypes:
+  1-gang:
+    label: 1-gang
+    label_es: 1 módulo
+  2-gang:
+    label: 2-gang
+    label_es: 2 módulos
+  3-gang:
+    label: 3-gang
+    label_es: 3 módulos

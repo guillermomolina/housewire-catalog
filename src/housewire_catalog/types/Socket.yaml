@@ -22,3 +22,9 @@ terminals:
     label: N
     direction: in
     role: neutral
+defaults:
+  subtype: Schuko
+subtypes:
+  Schuko:
+    label: Schuko (2P+E)
+    label_es: Schuko (2P+T)

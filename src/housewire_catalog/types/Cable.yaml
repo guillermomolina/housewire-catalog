@@ -10,21 +10,26 @@ description_es: >
   Cubierta o mazo que agrupa conductores (contains). No conecta
   terminales; vive bajo cables:, no en elements.
 defaults:
+  subtype: power
   color: BK
 subtypes:
   power:
     label: Power (AC)
+    label_es: Potencia (CA)
     defaults:
       color: BK
   earth:
     label: Protective earth bundle
+    label_es: Haz de tierra de protección
     defaults:
       color: GNYE
   dc:
     label: DC
+    label_es: CC
     defaults:
       color: BK
   signal:
     label: Signal / data
+    label_es: Señal / datos
     defaults:
       color: GY

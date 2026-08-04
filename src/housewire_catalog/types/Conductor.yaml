@@ -10,22 +10,27 @@ description_es: >
   Hilo único entre dos terminales (from/to). Vive bajo cables: con tipo
   Conductor; no en elements.
 defaults:
+  subtype: power
   section: "1.5 mm2"
   color: BN
 subtypes:
   power:
     label: Power (AC)
+    label_es: Potencia (CA)
     defaults:
       color: BN
   earth:
     label: Protective earth
+    label_es: Tierra de protección
     defaults:
       color: GNYE
   dc:
     label: DC
+    label_es: CC
     defaults:
       color: RD
   signal:
     label: Signal / data
+    label_es: Señal / datos
     defaults:
       color: WH
