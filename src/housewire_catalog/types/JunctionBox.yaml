@@ -16,6 +16,10 @@ description_es: 'Caja de derivación. Metadatos del place (type/label/… en el 
 terminals: {}
 defaults:
   subtype: IP40
+  opening_grid:
+    NS: 2
+    WE: 2
+    B: 2x2
 subtypes:
   IP40:
     label: IP40 (indoor)

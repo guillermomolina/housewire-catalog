@@ -10,6 +10,13 @@ Catalog metadata lives in `catalog.yaml` (`version:`).
 
 ## [Unreleased]
 
+## [0.16.0] — 2026-08-05
+
+### Added
+
+- ``JunctionBox`` defaults: ``opening_grid`` ``NS: 2``, ``WE: 2``, ``B: 2x2``
+  (applied when creating a new junction box).
+
 ## [0.15.0] — 2026-08-04
 
 ### Changed
