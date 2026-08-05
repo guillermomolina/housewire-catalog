@@ -10,6 +10,12 @@ Catalog metadata lives in `catalog.yaml` (`version:`).
 
 ## [Unreleased]
 
+## [0.17.0] — 2026-08-05
+
+### Added
+
+- ``DeviceBox`` defaults: ``opening_grid`` ``NS: 1``, ``WE: 1``, ``B: 1``.
+
 ## [0.16.0] — 2026-08-05
 
 ### Added
